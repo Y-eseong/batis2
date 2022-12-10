@@ -1,4 +1,4 @@
-package com.spring.board;
+package com.example.board;
 
 import java.util.Date;
 
